@@ -1,0 +1,153 @@
+{
+    "allowedManager": "0x8206Ed5A43F00a0B74E2935b9B2ddC42275843Cd",
+    "feeManager": "0x8206Ed5A43F00a0B74E2935b9B2ddC42275843Cd",
+    "emergencyCouncil": "0x8206Ed5A43F00a0B74E2935b9B2ddC42275843Cd",
+    "team": "0x8206Ed5A43F00a0B74E2935b9B2ddC42275843Cd",
+    "WETH": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+    "whitelistTokens": [
+        "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+        "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+        "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+        "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+        "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f",
+        "0x912CE59144191C1204E64559FE8253a0e49E6548",
+        "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1",
+        "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a",
+        "0x539bdE0d7Dbd336b79148AA742883198BBF60342",
+        "0x3082CC23568eA640225c2467653dB90e9250AaA0"
+    ],
+    "pools": [
+        {
+            "stable": false,
+            "tokenA": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "tokenB": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+        },
+        {
+            "stable": false,
+            "tokenA": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "tokenB": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+        },
+        {
+            "stable": false,
+            "tokenA": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "tokenB": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8"
+        },
+        {
+            "stable": false,
+            "tokenA": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "tokenB": "0xfc5A1A6EB076a2C7aD06eD22C90d7E710E35ad0a"
+        },
+        {
+            "stable": false,
+            "tokenA": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "tokenB": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
+        },
+        {
+            "stable": false,
+            "tokenA": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "tokenB": "0x2f2a2543B76A4166549F7aaB2e75Bef0aefC5B0f"
+        },
+        {
+            "stable": false,
+            "tokenA": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "tokenB": "0x912CE59144191C1204E64559FE8253a0e49E6548"
+        },
+        {
+            "stable": false,
+            "tokenA": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "tokenB": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+        },
+        {
+            "stable": false,
+            "tokenA": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "tokenB": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+        },
+        {
+            "stable": false,
+            "tokenA": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "tokenB": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+        },
+        {
+            "stable": false,
+            "tokenA": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "tokenB": "0x539bdE0d7Dbd336b79148AA742883198BBF60342"
+        },
+        {
+            "stable": false,
+            "tokenA": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "tokenB": "0x3082CC23568eA640225c2467653dB90e9250AaA0"
+        },
+        {
+            "stable": false,
+            "tokenA": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "tokenB": "0x912ce59144191c1204e64559fe8253a0e49e6548"
+        },
+        {
+            "stable": false,
+            "tokenA": "0xfc5a1a6eb076a2c7ad06ed22c90d7e710e35ad0a",
+            "tokenB": "0xff970a61a04b1ca14834a43f5de4533ebddb5cc8"
+        },
+        {
+            "stable": false,
+            "tokenA": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1",
+            "tokenB": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1"
+        },
+        {
+            "stable": true,
+            "tokenA": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "tokenB": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+        },
+        { 
+            "stable": true,
+            "tokenA": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831",
+            "tokenB": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1" 
+        },
+        { 
+            "stable": true,
+            "tokenA": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8",
+            "tokenB": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831" 
+        },
+        { 
+            "stable": true,
+            "tokenA": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "tokenB": "0xDA10009cBd5D07dd0CeCc66161FC93D7c9000da1" 
+        },
+        { 
+            "stable": true,
+            "tokenA": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9",
+            "tokenB": "0xFF970A61A04b1cA14834A43f5dE4533eBDDB5CC8" 
+        }
+    ],
+    "poolsPrfct": [
+        {
+            "stable": false,
+            "token": "0x82aF49447D8a07e3bd95BD0d56f35241523fBab1"
+        },
+        {
+            "stable": false,
+            "token": "0xFd086bC7CD5C481DCC9C85ebE478A1C0b69FCbb9"
+        },
+        {
+            "stable": false,
+            "token": "0xaf88d065e77c8cC2239327C5EDb3A432268e5831"
+        },
+        {
+            "stable": false,
+            "token": "0x912CE59144191C1204E64559FE8253a0e49E6548"
+        }
+    ],
+    "minter": {
+        "liquid": [
+            {
+                "amount": 1000000000000000000000000,
+                "wallet": "0x8206Ed5A43F00a0B74E2935b9B2ddC42275843Cd"
+            }
+        ],
+        "locked": [
+            {
+                "amount": 1000000000000000000000000,
+                "wallet": "0x8206Ed5A43F00a0B74E2935b9B2ddC42275843Cd"
+            }
+        ]
+    }
+}
