@@ -6,11 +6,11 @@ All contracts for the Protocol, an AMM on EVMs inspired by Solidly.
 
 | Name               | Address                                                                                                                               |
 | :----------------- | :------------------------------------------------------------------------------------------------------------------------------------ |
-| PRFCT               | [0x05ACc9F737AEdD1E8C0F44bCF6961b73766AA43e](https://arbiscan.io/address/0x05ACc9F737AEdD1E8C0F44bCF6961b73766AA43e#code) |
-| vePRFCT               | [0x7F8CCEbd7c9c162CB8Df780d3502E5B68642d457](https://arbiscan.io/address/0x7F8CCEbd7c9c162CB8Df780d3502E5B68642d457#code) |
-| poolFactory               | [0x6df18f08dF448ca2336dA5Fe1db9c6Fef7D5dFD5](https://arbiscan.io/address/0x6df18f08dF448ca2336dA5Fe1db9c6Fef7D5dFD5#code) |
-| Voter               | [0x87A28f9b53a10F3581E13c60FfB61cddC67BC31f](https://arbiscan.io/address/0x87A28f9b53a10F3581E13c60FfB61cddC67BC31f#code) |
-| router               | [0x959bFfb208351546EC4377580a07E8Ca384dD4C5](https://arbiscan.io/address/0x959bFfb208351546EC4377580a07E8Ca384dD4C5#code) |
-| minter               | [0xF49fa69cE117f395115BA408d482796993e1A9B0](https://arbiscan.io/address/0xF49fa69cE117f395115BA408d482796993e1A9B0#code) |
-| managedRewardsFactory               | [0x79b444971e812A54970dCd4EC09ff28463dA21de](https://arbiscan.io/address/0x79b444971e812A54970dCd4EC09ff28463dA21de#code) |
-| RewardsDistributor               | [0x22A9ea689970740c587bD8009213E50577F55775](https://arbiscan.io/address/0x22A9ea689970740c587bD8009213E50577F55775#code) |
+| PRFCT               | [0xA108a69A996d5467444780e2B1b36aD5851de2Ef](https://arbiscan.io/address/0xA108a69A996d5467444780e2B1b36aD5851de2Ef#code) |
+| vePRFCT               | [0xE000B6f5E6Bbf57A446e89F6CfF296eA589CF754](https://arbiscan.io/address/0xE000B6f5E6Bbf57A446e89F6CfF296eA589CF754#code) |
+| poolFactory               | [0xC7ee0B06c2d9c97589bEa593c6E9F6965451Fe93](https://arbiscan.io/address/0xC7ee0B06c2d9c97589bEa593c6E9F6965451Fe93#code) |
+| Voter               | [0x55b788359aA4f98Ec3805aFa1778Aa85b32A821b](https://arbiscan.io/address/0x55b788359aA4f98Ec3805aFa1778Aa85b32A821b#code) |
+| router               | [0xf93F88CC55D27D2c4d72BB0c785e90b5550C3d69](https://arbiscan.io/address/0xf93F88CC55D27D2c4d72BB0c785e90b5550C3d69#code) |
+| minter               | [0x5A4c4BF6b71164C2b404A252DEF5FFbb9096Ceda](https://arbiscan.io/address/0x5A4c4BF6b71164C2b404A252DEF5FFbb9096Ceda#code) |
+| managedRewardsFactory               | [0x13cAAC57257ffeC41d091d7B3e3d16b7E8D87ebE](https://arbiscan.io/address/0x13cAAC57257ffeC41d091d7B3e3d16b7E8D87ebE#code) |
+| RewardsDistributor               | [0x7E1901705CCb2f7bC65576501851939d2964d8c3](https://arbiscan.io/address/0x7E1901705CCb2f7bC65576501851939d2964d8c3#code) |
